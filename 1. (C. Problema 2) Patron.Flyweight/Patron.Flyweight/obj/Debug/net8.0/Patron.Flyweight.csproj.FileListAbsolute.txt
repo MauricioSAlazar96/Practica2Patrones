@@ -1,0 +1,14 @@
+C:\Users\edwin\source\repos\Patron.Flyweight\Patron.Flyweight\obj\Debug\net8.0\Patron.Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edwin\source\repos\Patron.Flyweight\Patron.Flyweight\obj\Debug\net8.0\Patron.Flyweight.AssemblyInfoInputs.cache
+C:\Users\edwin\source\repos\Patron.Flyweight\Patron.Flyweight\obj\Debug\net8.0\Patron.Flyweight.AssemblyInfo.cs
+C:\Users\edwin\source\repos\Patron.Flyweight\Patron.Flyweight\obj\Debug\net8.0\Patron.Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\edwin\source\repos\Patron.Flyweight\Patron.Flyweight\bin\Debug\net8.0\Patron.Flyweight.exe
+C:\Users\edwin\source\repos\Patron.Flyweight\Patron.Flyweight\bin\Debug\net8.0\Patron.Flyweight.deps.json
+C:\Users\edwin\source\repos\Patron.Flyweight\Patron.Flyweight\bin\Debug\net8.0\Patron.Flyweight.runtimeconfig.json
+C:\Users\edwin\source\repos\Patron.Flyweight\Patron.Flyweight\bin\Debug\net8.0\Patron.Flyweight.dll
+C:\Users\edwin\source\repos\Patron.Flyweight\Patron.Flyweight\bin\Debug\net8.0\Patron.Flyweight.pdb
+C:\Users\edwin\source\repos\Patron.Flyweight\Patron.Flyweight\obj\Debug\net8.0\Patron.Flyweight.dll
+C:\Users\edwin\source\repos\Patron.Flyweight\Patron.Flyweight\obj\Debug\net8.0\refint\Patron.Flyweight.dll
+C:\Users\edwin\source\repos\Patron.Flyweight\Patron.Flyweight\obj\Debug\net8.0\Patron.Flyweight.pdb
+C:\Users\edwin\source\repos\Patron.Flyweight\Patron.Flyweight\obj\Debug\net8.0\Patron.Flyweight.genruntimeconfig.cache
+C:\Users\edwin\source\repos\Patron.Flyweight\Patron.Flyweight\obj\Debug\net8.0\ref\Patron.Flyweight.dll
